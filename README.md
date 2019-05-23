@@ -2,7 +2,7 @@
 <html>
 <head>
 <body bg color=E9F6FF>
-<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Avengers_endgame_2019_avengers_logo_png_by_mintmovi3_dd4bz30-pre.png" type="image/png">
+<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Avengers_endgame_2019_avengers_logo_png_by_mintmovi3_dd4bz30-pre.png">
 <title> samantha bedoya </title>
 </head>
 <body>
