@@ -1,7 +1,7 @@
 # Samantha Bedoya
 <html>
 <head>
-<body background="https://st2.depositphotos.com/1915497/10879/i/950/depositphotos_108798802-stock-photo-purple-dots-pattern.jpg">
+<body bg color=E9F6FF>
 <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Avengers_endgame_2019_avengers_logo_png_by_mintmovi3_dd4bz30-pre.png" type="image/png">
 <title> samantha bedoya </title>
 </head>
@@ -33,6 +33,17 @@ visita <a href="https://www.utec.edu.pe/">UTEC</a>
 tambien visita especialmente a la carrera de 
 <a href="https://www.utec.edu.pe/carreras-de-ingenieria/bioingenieria">BIOINGENIERÍA</a>
 <br>
+  <br>
+Este año voy a participar como voluntaria en los juegos panamericanos y parapanamericanos Lima 2019<br>
+<table>
+<tr>
+<br>
+<td>visita los juegos<br><a href="https://www.lima2019.pe/">LIMA 2019</a>
+</td>
+<td><IMG SRC="http://www.pasasurf.org/wp-content/uploads/2017/07/panamericanos-mobile-es-777x437.png" WIDTH=240 HEIGHT=120></td>
+</tr>
+</table>
+  <br>
 <hr>
 <IMG SRC="https://www.somosmamas.com.ar/wp-content/uploads/2017/11/emoji-divertido.png" WIDTH=20 HEIGHT=20>
 este es un trabajo en grupo para aprobar ICC
