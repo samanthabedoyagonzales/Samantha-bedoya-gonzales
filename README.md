@@ -2,7 +2,7 @@
 <html>
 <head>
 <body bg color=E9F6FF>
-<link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/1/1c/Avengers_endgame_2019_avengers_logo_png_by_mintmovi3_dd4bz30-pre.png">
+<link rel="icon" href="https://laverdadnoticias.com/export/sites/laverdad/img/2018/12/13/avengers-png-transparent-image-963.png_1636948814.png">
 <title> samantha bedoya </title>
 </head>
 <body>
